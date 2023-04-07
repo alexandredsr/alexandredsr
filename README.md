@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de front-end da <a href="https://soukick.com.br/" target="_blank">#Kick</a> e entusiasta de programação  
+    Formado em Engenharia de Biossistemas pela Universidade de São Paulo e estudante de programação da <a href="https://soukick.com.br/" target="_blank">#Kick</a> 
   </p>
 </div>
 
