@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">
     Seja bem vindo ao meu perfil, prazer sou o 
-    <a href="https://www.linkedin.com/in/alexandre-ribeiro-b3b931111/">Alexandre Ribeiro</a>
+    <a href="https://www.linkedin.com/in/alexandre-ribeiro-b3b931111/" target="_blank">Alexandre Ribeiro</a>
   </h1>
   
   <p align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <!-- <div align="center">
-  <a href="https://github.com/alexandredsr">
+  <a href="https://github.com/alexandredsr" target="_blank">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
