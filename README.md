@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Formado em Engenharia de Biossistemas pela Universidade de São Paulo e estudante de programação da <a href="https://soukick.com.br/" target="_blank">#Kick</a> 
+    Estudante do curso de Desenvolvimento de Software da <a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank">Fatec Prof. Jessen Vidal</a>  
   </p>
 </div>
 
